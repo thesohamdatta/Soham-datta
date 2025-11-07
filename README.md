@@ -1,3 +1,59 @@
+
+<div align="center">
+  <img src="https://placehold.co/800x200/0d1117/c9d1d9?text=CLIENT+NAME+HERE+%7C+AI+ML+ENGINEER" alt="Profile Banner" />
+</div>
+
+<div align="center">
+  <br>
+
+  ```bash
+# user@github:~$ whoami
+# > [Insert Your Name Here]
+# -----------------------------------------------------------------------
+# Executing profile initialization sequence...
+
+# Core Fields
+USER_ID="[Your GitHub Handle]"
+TITLE="AI / ML Engineer & Data Scientist"
+LOCATION="Global / Remote"
+FOCUS_STACK="Python, TensorFlow, PyTorch, Kubernetes, Cloud (AWS)"
+
+# Bio Statement
+BIO_QUOTES=(
+  "Building intelligent systems that solve real-world problems."
+  "Passionate about ethical AI and model interpretability."
+)
+
+# Current Project Status
+STATUS_REPORT={
+  "active_repo": "NanoBanana-Image-Generator",
+  "commits_last_week": 42,
+  "current_status": "🟢 Online & Developing"
+}
+
+# Image Preview (Simulating a Graphical Output in CLI)
+# -----------------------------------------------------------------------
+# Rendering Image: client_portrait.png
+
+# *** CRITICAL: Replace the placeholder URL below with the actual link to your image ***
+
+printf "
+<p align='center'>
+  <img src='http://googleusercontent.com/image_generation_content/0' alt='Client Profile Portrait' width='85%'/>
+</p>
+"
+# -----------------------------------------------------------------------
+
+# Function: get_metrics() 
+# Returns last 30 days activity metrics
+get_metrics() {
+  echo "STARS: 4.8K"
+  echo "FORKS: 1.2K"
+  echo "CONTRIBUTIONS: 1.5K"
+}
+
+get_metrics
+
 # Soham Datta
 AI/ML Engineer | AI Researcher | Building Custom AI Agents to Automate Complexity | Gen AI Expert & Freelancer
 
