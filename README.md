@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">AI / ML Engineer · Research-Oriented Builder · Applied GenAI</h3>
-<h3 align="center">B.E. Artificial Intelligence & Machine Learning (2022–2026)</h3>
+<h3 align="center"Bacholers in Artificial Intelligence & Machine Learning (2022–2026)</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=thesohamdatta" alt="profile-views"/>
