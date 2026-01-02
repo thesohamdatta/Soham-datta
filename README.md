@@ -1,4 +1,4 @@
-<!--
+[<!--
 GitHub Profile README
 Author: Soham Datta
 Principle: signal > noise
@@ -100,3 +100,4 @@ LinkedIn: linkedin.com/in/dattasoham
 If you’re working on serious AI problems, I’m open to conversation.
 
 Last updated when something meaningful changed.
+](https://github.com/thesohamdatta)
